@@ -1,0 +1,1 @@
+export const COURSE_API = 'https://course-api.com/react-tabs-project'
